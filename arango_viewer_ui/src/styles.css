@@ -1,0 +1,40 @@
+body {
+    overflow: hidden;
+}
+
+#cy {
+    width: 100vw;
+    height: 100vh;
+}
+
+#controlPanel {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#infoPanel {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+#startTxDiv {
+    position: fixed;
+    top: 12%;
+    width: 100vw;
+    text-align: center;
+}
+
+.nodeCollapsedSpan {
+    color: white;
+    font-weight: bold;
+    font-size: 20pt;
+}
+h1 {
+    opacity: 0.5;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    top: 0;
+}

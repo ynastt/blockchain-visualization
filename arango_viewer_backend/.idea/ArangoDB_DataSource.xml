@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArangoDB.DataSource">
+    <option name="name" value="" />
+    <option name="queries">
+      <map>
+        <entry key="btc.aql_query">
+          <value>
+            <AqlQuery>
+              <option name="hash" value="90097f1dbe7acb7541ed1e49d6dfa4654aa1f2c8987f3c3b1178b9acb742ced0" />
+              <option name="name" value="btc.aql_query" />
+              <option name="query" value="FOR x IN ANY 'btcNext' btcNext&#10;    RETURN x._id" />
+            </AqlQuery>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="selectedDatabaseName" value="btc" />
+    <option name="user" value="root" />
+  </component>
+</project>

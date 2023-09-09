@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="arangodb-java-driver-6.20.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/arangodb-java-driver-6.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
